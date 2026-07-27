@@ -1,1 +1,51 @@
-
+[
+    {
+        "id": 1,
+        "name": "Dell UltraSharp U2723QE",
+        "category": "LCD IPS",
+        "description": "27-inch 4K IPS Monitor",
+        "cover": "assets/productos/dell-u2723qe/portada.webp"
+    },
+    {
+        "id": 2,
+        "name": "ASUS VG248QG",
+        "category": "LCD TN",
+        "description": "24-inch Gaming Monitor",
+        "cover": "assets/productos/asus-vg248qg/portada.webp"
+    },
+    {
+        "id": 3,
+        "name": "Samsung Odyssey G5",
+        "category": "LCD VA",
+        "description": "27-inch Curved Gaming Monitor",
+        "cover": "assets/productos/samsung-g5/portada.webp"
+    },
+    {
+        "id": 4,
+        "name": "LG UltraGear 27GS95QE-B",
+        "category": "OLED",
+        "description": "27-inch OLED Gaming Monitor",
+        "cover": "assets/productos/lg-oled/portada.webp"
+    },
+    {
+        "id": 5,
+        "name": "ASUS ROG Swift PG32UQX",
+        "category": "Mini-LED",
+        "description": "32-inch Mini-LED Gaming Monitor",
+        "cover": "assets/productos/rog-mini-led/portada.webp"
+    },
+    {
+        "id": 6,
+        "name": "Dell P2424HT",
+        "category": "Touch Screen",
+        "description": "Touch Screen Monitor",
+        "cover": "assets/productos/dell-touch/portada.webp"
+    },
+    {
+        "id": 7,
+        "name": "Universal LCD Inverter Board",
+        "category": "Inverter",
+        "description": "LCD Backlight Inverter",
+        "cover": "assets/productos/inverter/portada.webp"
+    }
+]
